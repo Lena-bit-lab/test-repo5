@@ -1,0 +1,63 @@
+body {
+    font-size: 24px;
+}
+body {
+    font-size: 12px;
+}
+body {
+    font-size: 8px;
+}
+p.green {
+    color: green;
+}
+p.red {
+    color: red;
+}
+p.bold {
+    font-style: bold;
+}
+p.bold italic {
+    font-style: bold italic; 
+}
+p.italic {
+    font-style: italic;
+}
+li.green {
+    color: green;
+}
+body {
+    font-size: 24px;
+}
+.green {
+    color:green;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+li.green {
+    color: green;
+}
+li.red {
+    color: red;
+}
+li.blue {
+    color: blue;
+}
+ul ol li.red {
+    color: red;
+}
+ul ol li.green {
+    color: green;
+}
+ul ol li.blue {
+    color: blue;
+}
+p.italic {
+    font-style: italic;
+}
+p.bold {
+    font-weight: bold;
+}
